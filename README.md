@@ -51,7 +51,4 @@ simple-chatroom-rpc/
 ```
 Watch this short demo showing multiple clients chatting:
 [https://drive.google.com/file/d/1ku51nuXK2Fnsgn54KxjGWWOnN68RBtc5/view?usp=sharing]
-ج
-
 ```
-
