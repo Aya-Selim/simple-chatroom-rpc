@@ -5,7 +5,7 @@ This is a simple chatroom application using **Go (Golang)** and **RPC**
 Each client provides its name and sends messages; the server stores them and returns the full chat history.
 
 ---
-
+```
 ## 📂 Structure
 
 ```
